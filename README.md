@@ -1,7 +1,7 @@
 # SOSL (Screening of specific loci)
 `SOSL` is a command line tool used for Screening of specific loci from single variety to multiple varieties. 
 
-A large number of SNPS were reduced to obtain new recombination loci based on the standard of allele frequency difference greater than 0.3 (default) between offspring and parents.
+If you want to quickly find specific loci between a variety and multiple varieties in the chip data or Second generation sequencing data, you can use the following line of code to call our script to achieve your goal easily and quickly.
 
 ## Getting Started
 0.Git clone SOSL
